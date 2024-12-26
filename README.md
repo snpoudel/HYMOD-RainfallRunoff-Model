@@ -1,1 +1,0 @@
-# hymod_model_python
